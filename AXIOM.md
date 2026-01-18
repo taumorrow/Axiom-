@@ -6,7 +6,7 @@
 
 ## What We Built
 
-AXIOM is a multiplayer board game. Four players. Simultaneous moves. Collision detection. State transitions. Standard complexity.
+AXIOM is a multiplayer board game. Two to Four players. Simultaneous moves. Collision detection. State transitions. Standard complexity.
 
 One difference: every critical decision is a Tau Language formula. Not verified by Tau. Not implemented and then checked. The formula IS the implementation.
 
